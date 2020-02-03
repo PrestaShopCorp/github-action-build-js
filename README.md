@@ -1,4 +1,4 @@
-This action allow you to build your JS file and get only compiled files (run it on node:10:16)
+This action allow you to install and build your JS file and get only compiled files (run it on node:10:16)
 
 You need to replace the inputs commands:
 
