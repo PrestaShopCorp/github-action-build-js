@@ -1,4 +1,4 @@
-FROM node:12.14.1
+FROM node:latest
 
 COPY entrypoint.sh /entrypoint.sh
 
